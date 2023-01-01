@@ -1,0 +1,24 @@
+td{
+    background-color: green;
+    padding: 30px;
+    border: 10px orange solid;
+     
+}
+
+div{
+background-color: orange;
+width: 30px;
+height: 30px;
+}
+
+td:nth-child(even){
+    background-color: orange;
+    padding: 30px;
+    border: 10px green solid;  
+}
+ /* div:nth-of-type(odd){
+    background-color: green;
+    width: 30px;
+    height: 30px;
+ }
+ */
